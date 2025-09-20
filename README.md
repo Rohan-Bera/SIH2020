@@ -1,1 +1,1 @@
-# SIH2020
+Git repository for participating in SIH2020 Grand Finale. This will contain the solution made by team HexaByte for the problem statement CK146. 
